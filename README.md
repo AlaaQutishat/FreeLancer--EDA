@@ -39,7 +39,7 @@ this picture appears that most countries hire freelancers.
 
 <img src="https://github.com/AlaaQutishat/FreeLancer--EDA/blob/main//images/Screenshot%202022-08-19%20221915.png" alt="" title="">
 
-# DataSet Link 
-[a link](https://www.kaggle.com/datasets/ragadalabdullateef/freelancers-in-middle-east)
+[DataSet Link ](https://www.kaggle.com/datasets/ragadalabdullateef/freelancers-in-middle-east)
+[linkedin Post ](https://www.linkedin.com/posts/alaa-qutishat_data-pandas-ai-activity-6966488406096814080-uBqK)
 
 
