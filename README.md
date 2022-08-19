@@ -25,3 +25,17 @@ The following pictures show the most required skills in a number of countries
 <img src="https://github.com/AlaaQutishat/FreeLancer--EDA/blob/main//images/Screenshot%202022-08-19%20215245.png" alt="" title="">
 
 
+these pictures appear the price hour by country.
+
+<img src="https://github.com/AlaaQutishat/FreeLancer--EDA/blob/main//images/Screenshot%202022-08-19%20215829.png" alt="" title="">
+
+these pictures appear the number of skills and how affect to hour price.
+<img src="https://github.com/AlaaQutishat/FreeLancer--EDA/blob/main//images/Screenshot%202022-08-19%20220227.png" alt="" title="">
+
+this picture appears the most freelancer skill required.
+<img src="https://github.com/AlaaQutishat/FreeLancer--EDA/blob/main//images/Screenshot%202022-08-19%20221753.png" alt="" title="">
+
+this picture appears that most countries hire freelancers.
+
+<img src="https://github.com/AlaaQutishat/FreeLancer--EDA/blob/main//images/Screenshot%202022-08-19%20221915.png" alt="" title="">
+
